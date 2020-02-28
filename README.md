@@ -1,4 +1,4 @@
-# An Awesome App
+# An awesome app
 This is an app that convert digits to letters.
 
 ## Requirements
